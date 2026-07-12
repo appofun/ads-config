@@ -4,7 +4,7 @@
   "admob_interstitial_id": "ca-app-pub-6475111325948642/7303590624",
   "admob_rewarded_id": "ca-app-pub-6475111325948642/5066883598",
   "admob_rewarded_interstitial_id": "ca-app-pub-6475111325948642/2051263949",
-  "yandex_interstitial_id": "R-M-19503466-2",
-  "yandex_rewarded_id": "R-M-19503466-3",
-  "yandex_appopen_id": "R-M-19503466-4"
+  "yandex_interstitial_id": "demo-interstitial-yandex",
+  "yandex_rewarded_id": "demo-rewarded-yandex",
+  "yandex_appopen_id": "demo-appopenad-yandex"
 }
