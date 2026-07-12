@@ -1,9 +1,8 @@
 {
   "ads_enabled": true,
-  "admob_app_open_id": "ca-app-pub-6475111325948642/3703876630",
-  "admob_interstitial_id": "ca-app-pub-6475111325948642/7303590624",
-  "admob_rewarded_id": "ca-app-pub-6475111325948642/5066883598",
-  "admob_rewarded_interstitial_id": "ca-app-pub-6475111325948642/2051263949",
+  "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
   "yandex_interstitial_id": "demo-interstitial-yandex",
   "yandex_rewarded_id": "demo-rewarded-yandex",
   "yandex_appopen_id": "demo-appopenad-yandex"
