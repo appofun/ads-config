@@ -1,8 +1,8 @@
 {
   "ads_enabled": true,
-  "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+  "admob_app_open_id": "",
+  "admob_interstitial_id": "",
+  "admob_rewarded_id": "",
   "yandex_interstitial_id": "R-M-19503466-2",
   "yandex_rewarded_id": "R-M-19503466-3",
   "yandex_appopen_id": "R-M-19503466-4",
