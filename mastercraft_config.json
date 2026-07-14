@@ -7,10 +7,10 @@
   "yandex_rewarded_id": "",
   "yandex_appopen_id": "",
   "startapp_app_id": "202553935",
-  "cpa_enabled": true,
+  "cpa_enabled": false,
   "cpa_offer_url": "https://galaxystore.samsung.com/detail/org.mozilla.firefox",
   "cpa_offer_title": "Special Offer",
   "cpa_offer_button": "Get Now",
-  "cpa_show_on_launch": true,
+  "cpa_show_on_launch": false,
   "cpa_show_interval_minutes": 1
 }
